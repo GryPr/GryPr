@@ -18,5 +18,6 @@ Hello! I'm Kevin, currently a second-year Computer Engineering student, and a te
 <a href="https://github.com/GryPr/TT-DockerK8S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=TT-DockerK8S" /></a>
 
 ## Contact Information
+Feel free to contact me for any reason, even for a casual chat about any subjects!
 - Email: grypr@protonmail.com
 - Linkedin: https://www.linkedin.com/in/kevinprom/
