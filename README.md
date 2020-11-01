@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**GryPr/GryPr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Kevin, currently a second-year Computer Engineering student, and a tech enthusiast. I love exploring the various fields of IT, and I'm always looking forward to learning more about all the different technologies that helped shape the digital age!
 
-Here are some ideas to get you started:
+## My Current Interests
+- Web development
+- Cloud technologies
+- Web and cloud security
+- Devops
+- Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Web Development
+<a href="https://github.com/GryPr/GoLang-To-Do-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoLang-To-Do-List" /></a>
+<a href="https://github.com/GryPr/GoToDo-Angular-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoToDo-Angular-Frontend" /></a>
+
+### Talks
+<a href="https://github.com/GryPr/TT-DockerK8S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=TT-DockerK8S" /></a>
+
+## Contact Information
+- Email: grypr@protonmail.com
+- Linkedin: https://www.linkedin.com/in/kevinprom/
