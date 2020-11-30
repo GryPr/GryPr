@@ -2,6 +2,9 @@
 
 Hello! I'm Kevin, currently a second-year Computer Engineering student, and a tech enthusiast. I love exploring the various fields of IT, and I'm always looking forward to learning more about all the different technologies that helped shape the digital age!
 
+## Upcoming Events
+[Introduction to Docker and Kubernetes - Concordia ENCS Tech Talks - Dec 13th @ 6PM EST ](https://github.com/GryPr/TT-DockerK8S)
+
 ## My Current Interests
 - Web development
 - Cloud technologies
