@@ -8,6 +8,7 @@ Hello! I'm Kevin, currently a second-year Computer Engineering student, and a te
 - Web and cloud security
 - Devops
 - Machine learning
+- Game Dev
 
 ## Projects
 ### Web Development
@@ -16,6 +17,10 @@ Hello! I'm Kevin, currently a second-year Computer Engineering student, and a te
 
 ### Talks
 <a href="https://github.com/GryPr/TT-DockerK8S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=TT-DockerK8S" /></a>
+
+### Game Dev
+<a href="https://github.com/GryPr/RBXTS-Experiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=RBXTS-Experiments" /></a>
+
 
 ## Contact Information
 Feel free to contact me for any reason, even for a casual chat about any subjects!
