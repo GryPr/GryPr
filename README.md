@@ -19,7 +19,7 @@ Hello! I'm Kevin, currently a second-year Computer Engineering student, and a te
 <a href="https://github.com/GryPr/TT-DockerK8S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=TT-DockerK8S" /></a>
 
 ### Game Dev
-<a href="https://github.com/GryPr/RBXTS-Experiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=RBXTS-Experiments" /></a>
+<a href="https://github.com/GryPr/RBLX-CryptoSim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=RBLX-CryptoSim" /></a>
 
 
 ## Contact Information
