@@ -13,6 +13,7 @@ Hello! I'm currently a second-year Computer Engineering student, and a tech enth
 ## Projects
 ### Web Development
 <a href="https://github.com/GryPr/SOEN341"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=SOEN341" /></a>
+<a href="https://github.com/GryPr/Kirn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=Kirn" /></a>
 <a href="https://github.com/GryPr/GoLang-To-Do-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoLang-To-Do-List" /></a>
 <a href="https://github.com/GryPr/GoToDo-Angular-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoToDo-Angular-Frontend" /></a>
 
