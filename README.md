@@ -1,23 +1,25 @@
 # 👋 Welcome to my profile!
 
-Hello! I'm currently a second-year Computer Engineering student, and a tech enthusiast. I love exploring the various fields of IT, and I'm always looking forward to learning more about all the different technologies that helped shape the digital age!
+Hello! I'm a fourth-year Computer Engineering student studying at Concordia University. I love exploring different disciplines of software development and to learn more about all the different technologies that are used to power the applications that we use on the internet.
 
-## My Current Interests
-- Web development
-- Cloud technologies
-- Web and cloud security
+## Main Interests
+- Full-Stack Web Development
+- Cloud
+- Software Security
 - Devops
-- Machine learning
-- Game Dev
+
+## Side Interests
+- Machine Learning
+- Game Development
 
 ## Projects
 ### Web Development
-<a href="https://github.com/GryPr/Postagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=Postagram" /></a>
 <a href="https://github.com/GryPr/Kirn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=Kirn" /></a>
+<a href="https://github.com/GryPr/Postagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=Postagram" /></a>
 <a href="https://github.com/GryPr/GoLang-To-Do-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoLang-To-Do-List" /></a>
 <a href="https://github.com/GryPr/GoToDo-Angular-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=GoToDo-Angular-Frontend" /></a>
 
-### Talks
+### Talks/Workshops
 <a href="https://github.com/GryPr/TT-DockerK8S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GryPr&repo=TT-DockerK8S" /></a>
 
 ### Other
