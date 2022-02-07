@@ -17,7 +17,8 @@ Hello! My name is Kevin Prom, I'm a fourth-year Computer Engineering student stu
 - Software Security
 - Devops
 
-**Contact Information**
+**Contact Me**
 
-Email: grypr@protonmail.com
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinprom/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promkev@gmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:grypr@protonmail.com)
