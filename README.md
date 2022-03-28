@@ -20,5 +20,4 @@ Hello! I'm a fourth-year Computer Engineering student studying at Concordia Univ
 
 **Contact Me**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promkev@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:grypr@protonmail.com)
