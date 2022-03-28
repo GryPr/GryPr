@@ -1,6 +1,6 @@
 ### 👋 Welcome to my profile!
 
-Hello! My name is Kevin Prom, I'm a fourth-year Computer Engineering student studying at Concordia University. I enjoy exploring different disciplines of software development and to learn more about all the different technologies that are used to power the applications that we use on the internet.
+Hello! I'm a fourth-year Computer Engineering student studying at Concordia University. I enjoy exploring different disciplines of software development and to learn more about all the different technologies that are used to power the applications that we use on the internet.
 
 **Professional Experience**
 *  Incoming Software Development Engineer Intern @ Amazon (May 2022 - Aug 2022)
