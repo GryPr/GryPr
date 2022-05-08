@@ -5,7 +5,7 @@ Hello! I'm a fourth-year Computer Engineering student studying at Concordia Univ
 
 
 **Professional Experience**
-*  Incoming Software Development Engineer Intern @ Amazon (May 2022 - Aug 2022)
+*  Software Development Engineer Intern @ Amazon (May 2022 - Aug 2022)
 *  Software Developer Intern in Cloud Security and Identity @ Genetec (Sept 2020 - Apr 2022)
 *  Software Developer Intern in Cloud Security and Identity (Part-Time) @ Genetec (Jan 2021 - Dec 2021)
 *  Software Developer Intern in Cloud Security and Identity @ Genetec (Sept 2020 - Dec 2020)
