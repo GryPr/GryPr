@@ -10,10 +10,6 @@ Hello! I'm a fourth-year Computer Engineering student studying at Concordia Univ
 *  Software Developer Intern in Cloud Security and Identity (Part-Time) @ Genetec (Jan 2021 - Dec 2021)
 *  Software Developer Intern in Cloud Security and Identity @ Genetec (Sept 2020 - Dec 2020)
 
-**Current Projects**
-* Course sequence planner, to be published when MVP is ready
-* Home infrastructure, work-in-progress and not yet ready
-
 **Interests**
 - Web Development
 - Cloud
